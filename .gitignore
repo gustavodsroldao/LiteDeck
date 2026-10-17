@@ -1,0 +1,17 @@
+bin/
+obj/
+build*/
+dist/
+*.user
+__pycache__/
+
+# saídas de diagnóstico e capturas locais
+shot*.png
+crop_*.png
+probe.txt
+selftest.txt
+tools/*.log
+tools/STOP
+tools/*.stop
+tools/*.txt
+install.log
